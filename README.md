@@ -1,6 +1,6 @@
 # Brendan Stevens
 
-I'm Brendan from a small town in Kansas you've never heard of. I teach math to high school students, including Statistics and Calculus. I have a Bachelor's in Mathematics and a Master's Degree in Statistics, Analytics, and Data Science. As a hobby, I enjoy playing with machine learning models to answer data questions I have about the world. My projects are primarily written in the R: Statistical Programming Language. Open to work offers in the field of Data Science and Analytics.
+I'm Brendan from a small town in Kansas you've never heard of. I teach math to high school students, including Statistics and Calculus. I have a Bachelor's in Mathematics and a Master's Degree in Statistics, Analytics, and Data Science. As a hobby, I enjoy playing with machine learning models to answer data questions I have about the world. My projects are primarily written in the R: Statistical Programming Language. Open to work inquiries in the field of Data Science and Analytics.
 
 ## Skills and Experience
 :chart_with_upwards_trend: Statistics
