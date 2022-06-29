@@ -6,10 +6,14 @@ Hello and welcome. My name is Brendan, and I'm a high school math teacher who te
   2. [Data Science Portfolio](https://github.com/bstevens00/Data-Science-Portfolio) for interested parties and personal projects.
 
 ## Why does this github page exist?
-As stated above, first, to help organize some of my class resources as time goes on. Second, as a hobby, I enjoy playing with machine learning models to answer data questions I have about the world. And third, I'm fascinated by the field of machine learning and data science, and am open to work inquiries related to those fields, so recruiters or potentially interested employers have evidence of my data abilities.
+In no particular order of importance:
+
+  * To help organize some of my class resources as time goes on.
+  * As a hobby, as I enjoy playing with machine learning models to answer data questions I have about the world.\
+  * For work-related inquiries from recruiters or potentially interested employers, so they've evidence of my data abilities.
 
 ## What languages are in this portfolio?
-My projects are primarily written in English. But if you're asking about code, then R: Statistical Programming Language.
+My projects are primarily written in Gibberish and English. But since you're likely asking about code, then R: Statistical Programming Language.
 
 ## Skills and Experience
 :chart_with_upwards_trend: Statistics
