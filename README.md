@@ -1,6 +1,6 @@
 # Brendan Stevens
 
-Hello and welcome. My name is Brendan, and I'm a high school math teacher who teaches many courses, including Personal Finance, Geometry, and Algebra, as well as Statistics and Calculus. I have a Bachelor's in Mathematics from the University of Kansas and a Master's Degree in Applied Statistics, Analytics, and Data Science. And, you know, just a general liking for all things math related, you know? Anyway, this landing page serves two primary purposes, listed below. You may click the link to take you to whichever pertains to your needs.
+Hello and welcome. My name is Brendan, and I'm a high school math teacher who teaches many courses, including Personal Finance, Geometry, and Algebra, as well as Statistics and Calculus. I have a Bachelor's in Mathematics from the University of Kansas and a Master's Degree in Applied Statistics, Analytics, and Data Science. In addition to that, I also have... just a general liking for most things math-related, you know? Anyway, this landing page serves two primary purposes, listed below. You may click the link to take you to whichever pertains to your needs.
 
   1. [Student Resources]() for class and/or cool things.
   2. [Data Science Portfolio](https://github.com/bstevens00/Data-Science-Portfolio) for interested parties and personal projects.
