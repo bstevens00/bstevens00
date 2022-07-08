@@ -11,10 +11,3 @@ In no particular order of importance:
   * To help organize some of my class resources as time goes on.
   * As a hobby, as I enjoy playing with machine learning models to answer data questions I have about the world.
   * For work-related inquiries from recruiters or potentially interested employers, so they've evidence of my data abilities.
-
-## What languages are in this portfolio?
-My projects are primarily written in Gibberish and English. But since you're likely asking about code, then R: Statistical Programming Language.
-
-## Skills and Experience
-:chart_with_upwards_trend: Statistics
-:bar_chart: Data Visualization
